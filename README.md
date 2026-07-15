@@ -17,7 +17,8 @@
 * **Resultado obtenido:** Precisión general (Accuracy) de 51.67%.
 
 ### Visualización del Análisis de Datos:
-[ARRASTRA Y SUELTA TU CAPTURA DE GRÁFICOS AQUÍ]
+<img width="1667" height="582" alt="image" src="https://github.com/user-attachments/assets/95403624-a277-4ea3-87bd-46d4d7ddb2c4" />
+
 
 ## 4. Conclusiones y Recomendaciones
 * **Insight principal:** Con las variables actuales, el modelo tiene un rendimiento cercano al azar. Esto nos indica que el éxito de ventas en e-commerce es un fenómeno complejo que no depende únicamente del precio o la categoría.
