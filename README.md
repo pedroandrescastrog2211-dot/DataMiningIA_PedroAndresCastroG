@@ -9,6 +9,7 @@
     📥 Descargar Dataset Limpio (.CSV)
   </button>
 </a>
+
 * **Tamaño:** 300 registros (productos).
 * **Proceso de Limpieza con IA:**
   * Homogeneización de texto en la variable `Categoria` (corrección de mayúsculas/minúsculas).
