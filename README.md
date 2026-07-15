@@ -16,6 +16,9 @@
 * **División de datos:** 80% entrenamiento, 20% prueba.
 * **Resultado obtenido:** Precisión general (Accuracy) de 51.67%.
 
+### Visualización del Análisis de Datos:
+[ARRASTRA Y SUELTA TU CAPTURA DE GRÁFICOS AQUÍ]
+
 ## 4. Conclusiones y Recomendaciones
 * **Insight principal:** Con las variables actuales, el modelo tiene un rendimiento cercano al azar. Esto nos indica que el éxito de ventas en e-commerce es un fenómeno complejo que no depende únicamente del precio o la categoría.
 * **Limitaciones:** Dataset acotado a 300 registros sintéticos.
