@@ -1,18 +1,3 @@
-# Data Mining con IA: Factores de Éxito en E-Commerce 🚀
-
-## 1. Objetivo y Pregunta Central
-¿Qué características del producto (Precio, Categoría, Descuento, Calificación de usuarios) determinan que se convierta en un éxito de ventas (60 o más unidades vendidas)?
-
-## 2. Fuente de los Datos y Limpieza
-### 📊 Dataset Limpio Completo (300 Registros)
-A continuación puedes explorar el conjunto de datos completo directamente desde esta ventana interactiva:
-
-# Data Mining con IA: Factores de Éxito en E-Commerce 🚀
-
-## 1. Objetivo y Pregunta Central
-¿Qué características del producto (Precio, Categoría, Descuento, Calificación de usuarios) determinan que se convierta en un éxito de ventas (60 o más unidades vendidas)?
-
-## 2. Fuente de los Datos y Limpieza
 
 # Data Mining con IA: Factores de Éxito en E-Commerce 🚀
 
