@@ -4,7 +4,7 @@
 ¿Qué características del producto (Precio, Categoría, Descuento, Calificación de usuarios) determinan que se convierta en un éxito de ventas (60 o más unidades vendidas)?
 
 ## 2. Fuente de los Datos y Limpieza
-<a href="https://raw.githubusercontent.com/pedroandrescastrog2211-dot/DataMiningIA_PedroAndresCastroG/main/ventas_limpio.csv" target="_blank" download>
+<a href="https://raw.githack.com/pedroandrescastrog2211-dot/DataMiningIA_PedroAndresCastroG/main/ventas_limpio.csv" target="_blank">
   <button style="background-color: #2ea44f; color: white; border: none; padding: 10px 20px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 6px; font-weight: bold;">
     📥 Descargar Dataset Limpio (.CSV)
   </button>
